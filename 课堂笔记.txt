@@ -1,0 +1,10 @@
+1.实例保存只能操作save()方法，对象保存可以操作insert,insertMany,create
+2. 数组 map()
+3.
+
+
+
+
+
+
+1.成功后result:suc
